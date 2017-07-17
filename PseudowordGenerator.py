@@ -1,8 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8-*-
-# Title: Portuguese Pseudoword Generator
-# Authors: Andreia Rauber, Ignacio Rubio, Roshanak Hamidi
+#
+# Portuguese Pseudoword Generator
+#
 # March 2016
+# Authors:  Ignacio Rubio <rubiomajano.i@gmail.com>
+#           Andreia Schurt Rauber <asrauber@gmail.com>
+#           Roshanak Hamidi <roshanak.hamidi@gmail.com>
 
 from tkinter import *
 import tkinter.filedialog
